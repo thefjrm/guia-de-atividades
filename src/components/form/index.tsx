@@ -26,7 +26,7 @@ export default function Form() {
           required
         />
       </div>
-      <Botao />
+      <Botao>Adicionar</Botao>
     </form>
   );
 }
